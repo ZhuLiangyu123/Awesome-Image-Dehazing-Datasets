@@ -18,3 +18,13 @@
 ### 5、HazeRD数据集
 ### 6、Outdoor-Rain数据集（雨雾共存）
 ### 7、Fattal's数据集（真实）
+
+
+## Cite US
+如果我们对数据集的汇总工作对你有所帮助，请引用我们的综述论文，谢谢！
+```
+title={Diffusion Models and Its Applications in Image Dehazing: A Survey},
+author={Liangyu Zhu, Yanzhao Su, Zhigao Cui, Yunwei Lan, Nian Wang, Lanqing Zhang, Yanping Cai},
+journal={IET Image Processing},
+year={2026}
+```
