@@ -15,7 +15,7 @@ year={2026}
 ## :open_file_folder: 数据集包括
 ### 1、RESIDE系列数据集
 - **（1）HSTS数据集** [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/HSTS.md)
--（2）ITS数据集 [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/ITS.md)
+- **（2）ITS数据集** [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/ITS.md)
 -（3）OTS数据集 [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/OTS.md)
 -（4）RTTS数据集（真实） [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/RTTS.md)
 -（5）SOTS数据集 [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/SOTS.md)
