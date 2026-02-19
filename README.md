@@ -28,4 +28,4 @@ year={2026}
 ### 4、NH-HAZE数据集
 ### 5、HazeRD数据集
 ### 6、Outdoor-Rain数据集（雨雾共存）
-### 7、Fattal's数据集（真实）
+### 7、Fattal's数据集（真实） [链接](https://bgithub.xyz/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/tree/main/Fattal)
