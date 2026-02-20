@@ -1,4 +1,4 @@
-NH-HAZE数据集对应论文：NH-HAZE: An image dehazing benchmark with non-homogeneous hazy and haze-free images（CVPRW 2020）
+NH-HAZE数据集对应论文：NH-HAZE: An image dehazing benchmark with non-homogeneous hazy and haze-free images（CVPR 2020）
 
 NH-HAZE数据集下载链接：https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/
 
