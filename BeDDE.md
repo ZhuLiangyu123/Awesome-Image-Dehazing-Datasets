@@ -1,6 +1,6 @@
-BeDDE数据集对应论文：LMHaze: Intensity-aware Image Dehazing with a Large-scale Multi-intensity Real Haze Dataset（ACM MM 2024）
+BeDDE数据集对应论文：Dehazing evaluation: Real-world benchmark datasets, criteria, and baselines（TIP 2020）
 
-BeDDE数据集下载链接：[https://github.com/wangzrk/LMHaze?tab=readme-ov-file](https://bgithub.xyz/wangzrk/LMHaze)
+BeDDE数据集下载链接：https://github.com/xiaofeng94/BeDDE-for-defogging
 
 BeDDE数据集是由北京理工大学和澳大利亚国立大学联合发布，是一个大规模、高质量的真实世界去雾数据集，包含5040对高分辨率的有雾和对应的无雾图像，涵盖多种室内外环境和不同的雾浓度。其中，训练集包含3925对图像，测试集包含1115对图像。从场景类型上看：数据集中包含室外图像3545对，包含室内图像1495对。
 
