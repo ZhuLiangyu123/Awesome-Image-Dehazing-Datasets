@@ -31,4 +31,4 @@ year={2026}
 ### 7、Fattal's数据集（真实） [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/tree/main/Fattal)
 ### 8、LMHaze数据集（真实） [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/LMHaze.md)
 ### 9、BeDDE数据集（真实） [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/BeDDE.md)
-### 10、NID数据集 [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/NH-HAZE.md)
+### 10、NID数据集 [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/NID.md)
