@@ -1,4 +1,4 @@
-URHI数据集对应论文：RESIDE: A Benchmark for Single Image Dehazing（2017）
+URHI数据集对应论文：RESIDE: A Benchmark for Single Image Dehazing（arXiv 2017）
 
 URHI数据集下载链接（官方提供的百度云链接）：https://pan.baidu.com/s/1i5GiZsx Password：vt99
 
