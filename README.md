@@ -29,3 +29,4 @@ year={2026}
 ### 5、HazeRD数据集 [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/HazeRD.md)
 ### 6、Outdoor-Rain数据集（雨雾共存） [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/blob/main/%E2%80%8BOutdoor-Rain.md)
 ### 7、Fattal's数据集（真实） [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/tree/main/Fattal)
+### 8、LMHaze数据集（真实） [链接](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets/tree/main/Fattal)
