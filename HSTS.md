@@ -1,4 +1,4 @@
-HSTS数据集对应论文：RESIDE: A Benchmark for Single Image Dehazing（IEEE Trans. Image Process 2018）
+HSTS数据集对应论文：RESIDE: A Benchmark for Single Image Dehazing（TIP 2018）
 
 HSTS数据集下载链接（官方提供的百度云链接）：https://pan.baidu.com/s/1cl1exWnaFXe3T5-Hr7TJIg Passward: vzeq
 
