@@ -1,4 +1,4 @@
-ITS数据集对应论文：RESIDE: A Benchmark for Single Image Dehazing（IEEE Trans. Image Process 2018）
+ITS数据集对应论文：RESIDE: A Benchmark for Single Image Dehazing（TIP 2018）
 
 ITS数据集下载链接（官方提供的百度云链接）：  http://tinyurl.com/yaohd3yv Passward: g0s6
 
