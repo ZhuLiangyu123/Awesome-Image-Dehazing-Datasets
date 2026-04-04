@@ -5,10 +5,17 @@
 ## :books: Cite US
 :heart_eyes_cat: 如果我们对数据集的汇总工作对你有所帮助，请引用我们的综述论文，谢谢！
 ```
-title={Diffusion Models and Its Applications in Image Dehazing: A Survey},
-author={Liangyu Zhu, Yanzhao Su, Zhigao Cui, Yunwei Lan, Nian Wang, Lanqing Zhang, Yanping Cai},
-journal={IET Image Processing},
-year={2026}
+@article{zhu2026DMIAID,
+author = {Zhu, Liangyu and Su, Yanzhao and Cui, Zhigao and Lan, Yunwei and Wang, Nian and Zhang, Lanqing and Cai, Yanping},
+title = {Diffusion Models and Its Applications in Image Dehazing: A Survey},
+journal = {IET Image Processing},
+volume = {20},
+number = {1},
+pages = {e70346},
+doi = {https://doi.org/10.1049/ipr2.70346},
+year = {2026},
+publisher={Wiley Online Library}
+}
 ```
 
 
