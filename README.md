@@ -20,9 +20,9 @@ publisher={Wiley Online Library}
 
 ## :mega: News
 :tada: :tada: :tada: 我们在另一个[GitHub仓库](https://github.com/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing)中
-总结了基于扩散模型的图像去雾的相关论文和代码
-提供了PSNR、SSIM、LPIPS、NIQE、BRISQUE等10多种图像质量评价指标的计算代码
-汇总了一些与图像去雾相关的视频教程
+- **总结了基于扩散模型的图像去雾的相关论文和代码**
+-提供了PSNR、SSIM、LPIPS、NIQE、BRISQUE等10多种图像质量评价指标的计算代码
+-汇总了一些与图像去雾相关的视频教程
 
 
 ## :open_file_folder: 数据集包括
